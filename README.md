@@ -41,7 +41,7 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 | [shap-relativities](https://github.com/burning-cost/shap-relativities) | Python | Extract GLM-style rating relativities from GBM models using SHAP |
 | [insurance-validation](https://github.com/burning-cost/insurance-validation) | Python | PRA SS1/23 compliant model validation reports with bootstrap CIs |
 | [insurance-deploy](https://github.com/burning-cost/insurance-deploy) | Python | Champion/challenger pricing framework with shadow mode and audit trail |
-| [insurance-fairness](https://github.com/burning-cost/insurance-fairness) | Python | Proxy discrimination auditing for pricing models |
+| [insurance-fairness](https://github.com/burning-cost/insurance-fairness) | Python | Proxy discrimination auditing for pricing models (FCA Consumer Duty) |
 | [insurance-causal](https://github.com/burning-cost/insurance-causal) | Python | Causal inference for rating factors via double machine learning |
 | [insurance-spatial](https://github.com/burning-cost/insurance-spatial) | Python | BYM2 spatial territory ratemaking with PyMC |
 | [credibility](https://github.com/burning-cost/credibility) | Python | Bühlmann-Straub credibility weighting |
