@@ -31,6 +31,15 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 | [chainladder](https://github.com/casact/chainladder-python) | Python  | Claims Reserving |
 | [aggregate](https://github.com/mynl/aggregate) | Python  | Aggregate Distributions |
 | [PCDM](https://github.com/casact/PCDM) | Python | Property Casualty Data Model |
+| [insurance-causal](https://github.com/burning-cost/insurance-causal) | Python | Causal Inference for Pricing |
+| [insurance-fairness](https://github.com/burning-cost/insurance-fairness) | Python | Proxy Discrimination Auditing |
+| [insurance-monitoring](https://github.com/burning-cost/insurance-monitoring) | Python | Model Drift Detection |
+| [insurance-conformal](https://github.com/burning-cost/insurance-conformal) | Python | Conformal Prediction Intervals |
+| [insurance-gam](https://github.com/burning-cost/insurance-gam) | Python | Interpretable GAM Tariffs |
+| [insurance-credibility](https://github.com/burning-cost/insurance-credibility) | Python | Credibility Rating Models |
+| [shap-relativities](https://github.com/burning-cost/shap-relativities) | Python | GBM-to-GLM Factor Extraction |
+| [insurance-whittaker](https://github.com/burning-cost/insurance-whittaker) | Python | Whittaker-Henderson Smoothing |
+| [insurance-governance](https://github.com/burning-cost/insurance-governance) | Python | PRA Model Validation Reports |
 
 ## Other packages
 | Package           | Language | Description         |
@@ -52,4 +61,3 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 | -- | -- |
 | [Actuarial Open Source](http://wurch.com.br/)  | Promoting and collaborating on open source actuarial topics |
 | [JuliaActuary](https://JuliaActuary.org/)  | Packages, tutorials, and resources for actuarial work in Julia |
-
