@@ -38,18 +38,11 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 
 | Package           | Language | Description         |
 | -- | -- | -- |
-| [shap-relativities](https://github.com/burning-cost/shap-relativities) | Python | Extract GLM-style rating relativities from GBM models using SHAP |
-| [insurance-validation](https://github.com/burning-cost/insurance-validation) | Python | PRA SS1/23 compliant model validation reports with bootstrap CIs |
-| [insurance-deploy](https://github.com/burning-cost/insurance-deploy) | Python | Champion/challenger pricing framework with shadow mode and audit trail |
-| [insurance-fairness](https://github.com/burning-cost/insurance-fairness) | Python | Proxy discrimination auditing for pricing models (FCA Consumer Duty) |
-| [insurance-causal](https://github.com/burning-cost/insurance-causal) | Python | Causal inference for rating factors via double machine learning |
-| [insurance-spatial](https://github.com/burning-cost/insurance-spatial) | Python | BYM2 spatial territory ratemaking with PyMC |
-| [credibility](https://github.com/burning-cost/credibility) | Python | Bühlmann-Straub credibility weighting |
-| [insurance-ilf](https://github.com/burning-cost/insurance-ilf) | Python | MBBEFD exposure curves, ILF tables, per-risk XL pricing |
-| [rate-optimiser](https://github.com/burning-cost/rate-optimiser) | Python | Constrained rate optimisation with demand modelling and efficient frontier |
-| [insurance-conformal](https://github.com/burning-cost/insurance-conformal) | Python | Conformal prediction intervals for Tweedie/Poisson insurance models |
-| [insurance-monitoring](https://github.com/burning-cost/insurance-monitoring) | Python | Model drift detection with exposure-weighted PSI/CSI and Gini drift |
-| [insurance-datasets](https://github.com/burning-cost/insurance-datasets) | Python | Synthetic UK motor insurance datasets with known DGP |
+| [insurance-fairness](https://github.com/burning-cost/insurance-fairness) | Python | Proxy discrimination auditing for insurance pricing — FCA Consumer Duty, Equality Act 2010, uplift-based bias metrics |
+| [insurance-causal](https://github.com/burning-cost/insurance-causal) | Python | Causal inference for insurance rating factors via double machine learning with CatBoost nuisance models |
+| [insurance-conformal](https://github.com/burning-cost/insurance-conformal) | Python | Distribution-free conformal prediction intervals for Tweedie and Poisson insurance models |
+| [insurance-governance](https://github.com/burning-cost/insurance-governance) | Python | Model validation reports for insurance pricing — Gini CIs, A/E ratios, double-lift, risk tier scoring |
+| [insurance-monitoring](https://github.com/burning-cost/insurance-monitoring) | Python | Model drift detection for insurance pricing — exposure-weighted PSI/CSI, A/E ratios, Gini drift z-test |
 
 ## Other packages
 | Package           | Language | Description         |
@@ -65,15 +58,9 @@ See Also: [**actuarial-foss**](https://github.com/genedan/actuarial-foss)
 
 ## Open Datasets
 
-| Dataset           | Language | Description         |
-| -- | -- | -- |
-| [insurance-datasets](https://github.com/burning-cost/insurance-datasets) | Python | Synthetic UK motor datasets with known DGP for model validation |
-
 ## Open-Source Actuarial Organizations/Websites
 
 | Website           | Description         |
 | -- | -- |
 | [Actuarial Open Source](http://wurch.com.br/)  | Promoting and collaborating on open source actuarial topics |
 | [JuliaActuary](https://JuliaActuary.org/)  | Packages, tutorials, and resources for actuarial work in Julia |
-| [Burning Cost](https://burning-cost.github.io/)  | Open-source pricing tools for UK insurance teams — 25 Python libraries |
-
